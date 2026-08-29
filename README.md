@@ -1,4 +1,4 @@
-# Quick ML Project
+# lil ml project
 
 this project is a minimal machine learning starter using python
 
